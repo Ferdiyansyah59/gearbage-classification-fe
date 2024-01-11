@@ -1,0 +1,12 @@
+.faq-style-wrapper {
+  display: flex;
+}
+
+.faq-style-wrapper .faq-title {
+  display: grid;
+  align-self: center;
+  font-weight: 800;
+}
+
+.faq-style-wrapper .faq-body .faq-row .row-title {
+}
